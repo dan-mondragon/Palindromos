@@ -2,4 +2,4 @@
 Verificar si una palabra es palindromo
 
 Para ejecutar el código solo se necesita proveer la ruta del archivo con las palabras que se desean probar si son palíndromos.
-Un ejemplo de archivo se adjunta con el código fuente.
+En la carpeta principal se adjunta un ejemplo de txt para prueba, así como el ejecutable (por si no se desea ejecutar desde el código fuente).
