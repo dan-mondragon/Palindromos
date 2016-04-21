@@ -1,0 +1,13 @@
+C:\Users\Beriatech - WP\Desktop\Test\Palíndromo\Palíndromo\bin\Debug\Palíndromo.exe.config
+C:\Users\Beriatech - WP\Desktop\Test\Palíndromo\Palíndromo\bin\Debug\Palíndromo.exe
+C:\Users\Beriatech - WP\Desktop\Test\Palíndromo\Palíndromo\bin\Debug\Palíndromo.pdb
+C:\Users\Beriatech - WP\Desktop\Test\Palíndromo\Palíndromo\obj\Debug\Palíndromo.csprojResolveAssemblyReference.cache
+C:\Users\Beriatech - WP\Desktop\Test\Palíndromo\Palíndromo\obj\Debug\MainWindow.baml
+C:\Users\Beriatech - WP\Desktop\Test\Palíndromo\Palíndromo\obj\Debug\MainWindow.g.cs
+C:\Users\Beriatech - WP\Desktop\Test\Palíndromo\Palíndromo\obj\Debug\App.g.cs
+C:\Users\Beriatech - WP\Desktop\Test\Palíndromo\Palíndromo\obj\Debug\Palíndromo_MarkupCompile.cache
+C:\Users\Beriatech - WP\Desktop\Test\Palíndromo\Palíndromo\obj\Debug\Palíndromo.g.resources
+C:\Users\Beriatech - WP\Desktop\Test\Palíndromo\Palíndromo\obj\Debug\Palíndromo.Properties.Resources.resources
+C:\Users\Beriatech - WP\Desktop\Test\Palíndromo\Palíndromo\obj\Debug\Palíndromo.csproj.GenerateResource.Cache
+C:\Users\Beriatech - WP\Desktop\Test\Palíndromo\Palíndromo\obj\Debug\Palíndromo.exe
+C:\Users\Beriatech - WP\Desktop\Test\Palíndromo\Palíndromo\obj\Debug\Palíndromo.pdb
